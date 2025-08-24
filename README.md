@@ -44,10 +44,8 @@ Get:
 
 📊 Code quality insights
 
-📸 Screenshots
-
-(Add project screenshots here once available)
-
+📸 DEMO(mp4)
+https://github.com/rahul001-coder/AI-Code-Reviewer/blob/main/assets/demo.mp4
 📌 Roadmap
 
  Add support for more languages
